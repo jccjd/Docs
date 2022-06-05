@@ -1,0 +1,6 @@
+- [返回上一级 [nic]](nic/)
+- [linux](nic/linux/)
+  - [After all, tomorrow is another day1](nic/linux/After all, tomorrow is another day1.md)
+  - [I think it's hard wining a war with words 1](nic/linux/I think it's hard wining a war with words 1.md)
+  - [The higher I got, the more amazed I was by the view](nic/linux/The higher I got, the more amazed I was by the view.md)
+  - [常用命令](nic/linux/常用命令.md)
